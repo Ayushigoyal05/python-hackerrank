@@ -1,4 +1,4 @@
 # python-hackerrank
-challenge wise cosed
+challenge wise codes
 
  python 3
