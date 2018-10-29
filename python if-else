@@ -1,0 +1,45 @@
+N = int(input())
+
+a = N % 2
+
+if a is 1:
+    print("Weird")
+elif a is 0:
+    if ( 2 <= N <= 5 ):
+        print("Not Weird")
+    elif ( 6 <= N <= 20):
+        print("Weird")
+    else:
+        print("Not Weird")
+        
+        ***** input *****
+        
+        3
+        
+        ***** output *****
+        
+        Weird
+        
+        ***** input *****
+        
+        8
+        
+        ***** output *****
+        
+        Weird
+        
+        ***** input *****
+        
+        4
+        
+        ***** output *****
+        
+        Not Weird
+        
+        ***** input *****
+        
+        22
+        
+        ***** output *****
+        
+        Not Weird
