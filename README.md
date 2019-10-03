@@ -1,4 +1,4 @@
 # python-hackerrank
-challenge wise codes
+challenge wise code
 
  python 3
